@@ -61,18 +61,19 @@
     "url": "https://penso.evorra.com",
     "icon": "https://favicons.githubusercontent.com/penso.evorra.com",
     "slug": "evorra-penso",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
-    "time": 734,
-    "timeDay": 697,
-    "timeWeek": 721,
-    "timeMonth": 734,
-    "timeYear": 734,
+    "time": 720,
+    "timeDay": 520,
+    "timeWeek": 674,
+    "timeMonth": 720,
+    "timeYear": 720,
     "dailyMinutesDown": {
+      "2022-02-05": 0,
       "2022-01-10": 35
     }
   }
