@@ -1,7 +1,7 @@
 url: https://prod-api.app.evorra.com/version
-status: down
-code: 502
+status: up
+code: 200
 responseTime: 442
-lastUpdated: 2022-02-10T16:11:17.708Z
+lastUpdated: 2022-02-10T16:23:12.041Z
 startTime: Thu Dec 09 2021 14:11:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
