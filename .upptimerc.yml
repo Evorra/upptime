@@ -9,8 +9,6 @@ sites:
     url: https://app.evorra.com
   - name: Evorra App Backend
     url: https://prod-api.app.evorra.com/version
-  - name: Evorra Penso
-    url: https://penso.evorra.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
