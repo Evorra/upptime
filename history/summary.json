@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1105,
-    "timeDay": 986,
-    "timeWeek": 1005,
+    "timeDay": 1080,
+    "timeWeek": 1006,
     "timeMonth": 1087,
     "timeYear": 1105,
     "dailyMinutesDown": {
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 116,
-    "timeWeek": 142,
-    "timeMonth": 127,
-    "timeYear": 156,
+    "time": 155,
+    "timeDay": 70,
+    "timeWeek": 135,
+    "timeMonth": 125,
+    "timeYear": 155,
     "dailyMinutesDown": {}
   },
   {
@@ -44,18 +44,16 @@
     "icon": "https://favicons.githubusercontent.com/prod-api.app.evorra.com",
     "slug": "evorra-app-backend",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 519,
-    "timeDay": 550,
-    "timeWeek": 526,
-    "timeMonth": 527,
-    "timeYear": 519,
-    "dailyMinutesDown": {
-      "2022-03-29": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 520,
+    "timeDay": 553,
+    "timeWeek": 522,
+    "timeMonth": 528,
+    "timeYear": 520,
+    "dailyMinutesDown": {}
   }
 ]
