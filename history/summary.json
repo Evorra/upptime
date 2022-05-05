@@ -25,9 +25,9 @@
     "url": "https://app.evorra.com",
     "icon": "https://favicons.githubusercontent.com/app.evorra.com",
     "slug": "evorra-app-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 123,
     "timeMonth": 149,
     "timeYear": 153,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-05": 0
+    }
   },
   {
     "name": "Evorra App Backend",
