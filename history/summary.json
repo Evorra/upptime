@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 1079,
-    "timeDay": 979,
-    "timeWeek": 1051,
-    "timeMonth": 1045,
-    "timeYear": 1079,
+    "time": 1078,
+    "timeDay": 838,
+    "timeWeek": 1032,
+    "timeMonth": 1044,
+    "timeYear": 1078,
     "dailyMinutesDown": {
       "2021-12-20": 9,
       "2021-12-19": 547
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 106,
-    "timeWeek": 146,
-    "timeMonth": 136,
-    "timeYear": 149,
+    "time": 150,
+    "timeDay": 168,
+    "timeWeek": 145,
+    "timeMonth": 133,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   },
   {
@@ -45,17 +45,15 @@
     "slug": "evorra-app-backend",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 524,
-    "timeDay": 579,
-    "timeWeek": 544,
-    "timeMonth": 541,
-    "timeYear": 524,
-    "dailyMinutesDown": {
-      "2022-06-09": 7
-    }
+    "time": 523,
+    "timeDay": 548,
+    "timeWeek": 537,
+    "timeMonth": 539,
+    "timeYear": 523,
+    "dailyMinutesDown": {}
   }
 ]
