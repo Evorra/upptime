@@ -43,19 +43,19 @@
     "url": "https://prod-api.app.evorra.com/version",
     "icon": "https://favicons.githubusercontent.com/prod-api.app.evorra.com",
     "slug": "evorra-app-backend",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 523,
-    "timeDay": 502,
-    "timeWeek": 497,
-    "timeMonth": 530,
+    "timeDay": 479,
+    "timeWeek": 490,
+    "timeMonth": 527,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2022-06-20": 0
+      "2022-06-20": 5
     }
   }
 ]
